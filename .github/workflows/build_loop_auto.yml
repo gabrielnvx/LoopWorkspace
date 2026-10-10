@@ -244,7 +244,7 @@ jobs:
             profiles \
             negative_insulin \
             meal_days \
-            2hloop \
+            2hlollipop \
             basal_lock
 
       # Patch Fastlane Match to not print tables
